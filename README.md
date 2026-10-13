@@ -30,3 +30,7 @@ A standalone watchOS app for tracking flights from your wrist. Add a flight, sea
 | `FlightDetailVIew.swift` | Flight detail screen |
 | `AeroAPIService.swift` | FlightAware AeroAPI client |
 | `AirportTimezones.swift` | Airport timezone lookups |
+
+## License
+
+MIT, see [LICENSE](LICENSE).
